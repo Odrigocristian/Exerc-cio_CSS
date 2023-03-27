@@ -90,35 +90,35 @@ section h2 {
 }
 
 #sports {
-    background-color: #808080;
+    background-color: #FF7F50;
 }
 
 #sports .articles article a {
-    background-color: #009432;
+    background-color: #800080;
 }
 
 #economy {
-    background-color: #808080;
+    background-color: #FF8C00;
 }
 
 #economy .articles article a {
-    background-color: #009432;
+    background-color: #663399;
 }
 
 
 #technology {
-    background-color: #808080;
+    background-color: #FFA500;
 }
 
 #technology .articles article a {
-    background-color: #009432;
+    background-color: #2F4F4F;
 }
 
 
 #entertainment {
-    background-color: #808080;
+    background-color: #FFD700;
 }
 
 #entertainment .articles article a {
-    background-color: #009432;
+    background-color: #A0522D;
 }
